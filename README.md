@@ -1,2 +1,2 @@
-# ST24R
-ST24R - Screw Theory Toolbox for Robotics v3.01
+# ST24R - Screw Theory Toolbox for Robotics v3.10
+2018 version.
