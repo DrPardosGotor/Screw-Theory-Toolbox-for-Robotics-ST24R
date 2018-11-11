@@ -1,4 +1,4 @@
-Screw Theory Toolbox for Robotics “ST24R" v3.10 - © 2018.
+# Screw Theory Toolbox for Robotics “ST24R" v3.10 - © 2018.
 
 This toolbox encompasses a collection of functions to facilitate the analysis of the robot kinematics through formulas of the theory of Lie groups and the geometry of screws.
 The “ST24R” provides a relatively reduced range of functions for the representation of serial-link manipulator robots, even though you can quite easily extend the toolbox to other robot mechanisms. The functions support screw theory kinematics for robotics, as well as robot simulations.
